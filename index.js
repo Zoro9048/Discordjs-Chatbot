@@ -34,4 +34,4 @@ message.reply(`${reply}`);
 });
 client.login(process.env.TOKEN);
 
-client.login('ODQ1MzU4MDk2NzUzNjIzMDgw.YKfzFA.kNCOI4daijs8O3c4cJIb3-nc00k')
+client.login('ODQ1MzU4MDk2NzUzNjIzMDgw.YKfzFA.nwZ1fIFIQuTktdlMQQOGMKxc78E')
