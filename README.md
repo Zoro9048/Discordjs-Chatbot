@@ -1,3 +1,4 @@
 # Zoros-Waifu
 A discordjs chatbot
-just add your bot token in index.js and you're good to go
+for the dumbfucks, this is my public project. You cannot get the source code but feel free to use the bot through your bot's token id.
+\\ Zoro
